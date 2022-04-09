@@ -1,0 +1,100 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50vh;
+    margin-top: 100px;
+}
+
+#div {
+    padding-top: 30px;
+}
+
+.buttons {
+    margin-top: 30px;
+}
+
+#input {
+    background: transparent;
+    border: none;
+    outline: none;
+
+    background: rgb(241, 235, 235);
+    border: 1px solid #000;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+#btn {
+    margin-left: 25px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 1px solid #000;
+    border-radius: 3px;
+    padding:3px 10px;
+}
+
+#btn:hover {
+    background: #000;
+    color: #fff;
+    transition: 0.3s;
+}
+
+#numbers {
+    background: transparent;
+    border: none;
+    outline: none;
+
+    background: rgb(241, 235, 235);
+    border: 1px solid #000;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+#btn_number {
+    margin-left: 10px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 1px solid #000;
+    border-radius: 3px;
+    padding:3px 10px;
+}
+
+#btn_number:hover {
+    background: #000;
+    color: #fff;
+    transition: 0.3s;
+}
+
+#removed {
+    padding-left: 20px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 1px solid #000;
+    border-radius: 3px;
+    padding:3px 10px;
+}
+
+#removed:hover {
+    background: #000;
+    color: #fff;
+    transition: 0.3s;
+}
+
+#delete {
+    margin-left: 20px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 1px solid #000;
+    border-radius: 3px;
+    padding:3px 10px;
+}
+
+#delete:hover {
+        background: #000;
+    color: #fff;
+    transition: 0.3s;
+}
