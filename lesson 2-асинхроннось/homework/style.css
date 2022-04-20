@@ -1,0 +1,43 @@
+.div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70vh;
+    margin-top: 100px;
+}
+
+#flap1,
+#flap2,
+#flap3,
+#flap4 {
+    background: transparent;
+    outline: none;
+    border: 1px solid rgb(155, 24, 24);
+    padding: 3px 10px;
+    border-radius: 5px;
+    color: rgb(155, 24, 24);
+    margin-top: 5px;
+}
+
+#flap1:hover {
+    color: #fff;
+    background: rgb(155, 24, 24);
+    transition: 0.3s;
+}
+
+#flap2:hover {
+    color: #fff;
+    background: rgb(155, 24, 24);
+    transition: 0.3s;
+}
+
+#flap3:hover {
+    color: #fff;
+    background: rgb(155, 24, 24);
+    transition: 0.3s;
+}
+
+#flap4:hover {
+    color: #fff;
+    background: rgb(155, 24, 24);
+    transition: 0.3s;
+}
